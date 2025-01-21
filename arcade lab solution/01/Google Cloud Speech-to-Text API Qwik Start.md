@@ -20,6 +20,6 @@ sudo chmod +x gsp119.sh
 
 #### *Well done!*
 
-#### Don't Forget to Join the [Telegram Channel](https://t.me/quickgcplab) & [Discussion group](https://t.me/quickgcplabchats)
+#### Don't Forget to Join the [Telegram Channel](https://t.me/cloudhelper) & [Discussion group](https://chat.whatsapp.com/EcEGNoNfX3o6O50h9uX2yV)
 
-# [QUICK GCP LAB](https://www.youtube.com/@quickgcplab)
+# [QUICK GCP LAB](https://www.youtube.com/@CloudHelper)
