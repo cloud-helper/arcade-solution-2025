@@ -7,7 +7,7 @@
 export API_KEY=
 ```
 ```
-curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Google%20Cloud%20Speech-to-Text%20API%20Qwik%20Start/gsp119.sh
+curl -LO raw.githubusercontent.com/cloud-helper/arcadessh/blob/main/gsp119.sh
 
 sudo chmod +x gsp119.sh
 
